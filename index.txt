@@ -1,0 +1,51 @@
+PS C:\Users\aucle\OneDrive\Documents\DAM_DORANCO\06 - HTML+\CORRECTION> git clone https://github.com/ambre93/formation-git.git
+Cloning into 'formation-git'...
+warning: You appear to have cloned an empty repository.
+PS C:\Users\aucle\OneDrive\Documents\DAM_DORANCO\06 - HTML+\CORRECTION> cd ..
+
+
+
+Mode                 LastWriteTime         Length Name
+d-----        11/03/2021     09:52                09-GIT
+PS C:\Users\aucle\OneDrive\Documents\DAM_DORANCO> cd 09*
+PS C:\Users\aucle\OneDrive\Documents\DAM_DORANCO\09-GIT> git clone https://github.com/ambre93/formation-git.git
+Cloning into 'formation-git'...
+warning: You appear to have cloned an empty repository.
+PS C:\Users\aucle\OneDrive\Documents\DAM_DORANCO\09-GIT> git status
+fatal: not a git repository (or any of the parent directories): .git
+PS C:\Users\aucle\OneDrive\Documents\DAM_DORANCO\09-GIT> git status
+
+
+    Répertoire : C:\Users\aucle\OneDrive\Documents\DAM_DORANCO\09-GIT
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+da---l        11/03/2021     09:52                formation-git
+
+
+PS C:\Users\aucle\OneDrive\Documents\DAM_DORANCO\09-GIT> cd formation-git
+PS C:\Users\aucle\OneDrive\Documents\DAM_DORANCO\09-GIT\formation-git> git status
+On branch master
+
+No commits yet
+
+nothing to commit (create/copy files and use "git add" to track)
+PS C:\Users\aucle\OneDrive\Documents\DAM_DORANCO\09-GIT\formation-git> 
+
+
+"Bonjour je suis sur GIT"
+
+PS C:\Users\aucle\OneDrive\Documents\DAM_DORANCO\09-GIT\formation-git> git status
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        index.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+PS C:\Users\aucle\OneDrive\Documents\DAM_DORANCO\09-GIT\formation-git> git add index.txt
+-- ajouter tous les fichiers modifiés
+PS C:\Users\aucle\OneDrive\Documents\DAM_DORANCO\09-GIT\formation-git> git add.
