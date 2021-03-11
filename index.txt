@@ -67,3 +67,16 @@ To https://github.com/ambre93/formation-git.git
 
 -- git fetch pour voir si modification
 -- si modif git commit
+
+PS C:\Users\aucle\OneDrive\Documents\DAM_DORANCO\09-GIT\formation-git> git fetch
+From https://github.com/ambre93/formation-git
+ * [new branch]      formation  -> origin/formation
+PS C:\Users\aucle\OneDrive\Documents\DAM_DORANCO\09-GIT\formation-git> git checkout formation
+Switched to a new branch 'formation'
+Branch 'formation' set up to track remote branch 'formation' from 'origin'.
+PS C:\Users\aucle\OneDrive\Documents\DAM_DORANCO\09-GIT\formation-git> git status
+On branch formation
+Your branch is up to date with 'origin/formation'.
+
+nothing to commit, working tree clean
+PS C:\Users\aucle\OneDrive\Documents\DAM_DORANCO\09-GIT\formation-git> 
