@@ -65,3 +65,5 @@ Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
 To https://github.com/ambre93/formation-git.git
  * [new branch]      master -> master
 
+-- git fetch pour voir si modification
+-- si modif git commit
